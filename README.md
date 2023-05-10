@@ -1,4 +1,4 @@
-# CS546_C_Team_3_Project
+# CS546_C_Project
 <!-- re$ale -->
 <!-- ABOUT THE PROJECT -->
 ## About re$ale
