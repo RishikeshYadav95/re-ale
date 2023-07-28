@@ -7,6 +7,11 @@ re$ale is an intermediary between buyers and sellers. Users can either list item
 
 The inspiration for this project stems from the pressing need for international students to populate their houses with essential items, all the while ensuring not to go over budget. As an international student, I have faced this issue first hand and believe an application like this would greatly benefit not only international students but also people that live on rent or constantly relocate.
 
+For more details about re$ale watch the below video
+
+<a href="https://youtu.be/m3UCrRJEAFg"><img height="200" width="320" src = "https://img.youtube.com/vi/m3UCrRJEAFg/0.jpg"></a>
+
+
 <!-- How to run re$ale -->
 ## How to install and run re$ale
 
