@@ -11,7 +11,6 @@ For more details about re$ale watch the below video
 
 <a href="https://youtu.be/m3UCrRJEAFg"><img height="200" width="320" src = "https://img.youtube.com/vi/m3UCrRJEAFg/0.jpg"></a>
 
-
 <!-- How to run re$ale -->
 ## How to install and run re$ale
 
